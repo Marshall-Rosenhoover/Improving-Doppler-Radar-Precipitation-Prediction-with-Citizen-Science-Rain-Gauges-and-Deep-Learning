@@ -19,7 +19,7 @@ This work presents a deep learning framework that improves real-time Doppler rad
 
 Key contributions:
 - A method for reconstructing continuous rainfall accumulation functions from discrete gauge and radar observations
-  ![Accumulation ](images/Accumulation_Reconstruction.png)
+  ![Accumulation ](Images/Accumulation_Reconstruction.png)
 - A quality control framework for validating citizen weather station data
 - A deep ResNet-101 model trained to classify rain intensity from radar images
 - Improved classification performance over NOAA’s operational Surface Precipitation Rate (SPR) radar product
